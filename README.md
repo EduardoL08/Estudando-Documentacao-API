@@ -1,10 +1,10 @@
-# 📚 API Biblioteca
+# API Biblioteca
 
 API REST desenvolvida em ASP.NET Core para gerenciamento de autores, livros e empréstimos.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * .NET 6 / .NET 7
 * ASP.NET Core Web API
@@ -13,7 +13,7 @@ API REST desenvolvida em ASP.NET Core para gerenciamento de autores, livros e em
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 BibliotecaApi/
@@ -34,9 +34,9 @@ BibliotecaApi/
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
-### 👤 Autores
+### Autores
 
 * Listar autores
 * Buscar autor por ID
@@ -46,7 +46,7 @@ BibliotecaApi/
 
 ---
 
-### 📖 Livros
+### Livros
 
 * Listar livros com paginação
 * Buscar livro por ID
@@ -57,7 +57,7 @@ BibliotecaApi/
 
 ---
 
-### 🔄 Empréstimos
+### Empréstimos
 
 * Listar empréstimos
 * Buscar empréstimo por ID
@@ -66,7 +66,7 @@ BibliotecaApi/
 
 ---
 
-## 📊 Padrão de respostas HTTP
+## Padrão de respostas HTTP
 
 | Código | Descrição                         |
 | ------ | --------------------------------- |
@@ -79,7 +79,7 @@ BibliotecaApi/
 
 ---
 
-## 📄 Documentação (Swagger)
+## Documentação (Swagger)
 
 A API possui documentação interativa com Swagger.
 
@@ -91,7 +91,7 @@ https://localhost:{porta}/swagger
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 ### 1. Clonar o repositório
 
@@ -123,7 +123,7 @@ dotnet watch run
 
 ---
 
-## 🧪 Exemplos de uso
+## Exemplos de uso
 
 ### Criar autor
 
@@ -150,7 +150,7 @@ POST /api/emprestimos
 
 ---
 
-## 📚 Conceitos aplicados
+## Conceitos aplicados
 
 * API RESTful
 * Injeção de dependência (Dependency Injection)
@@ -161,13 +161,13 @@ POST /api/emprestimos
 
 ---
 
-## 👨‍💻 Autor
+## Objetivo do projeto
 
 Projeto desenvolvido para fins de estudo em documentação de APIs e boas práticas com ASP.NET Core.
 
 ---
 
-## 📌 Observações
+## Observações
 
 * Projeto acadêmico voltado para aprendizado
 * Não utiliza banco de dados (dados em memória)
