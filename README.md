@@ -26,7 +26,7 @@ BibliotecaApi/
 │   ├── Livro.cs
 │   ├── Emprestimo.cs
 │   └── RespostaPaginada.cs
-├── Repository/
+├── Data/
 │   └── BibliotecaRepository.cs
 ├── Program.cs
 └── appsettings.json
